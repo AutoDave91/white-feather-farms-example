@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 
 function HomeSlides(props) {
     console.log("props", props)

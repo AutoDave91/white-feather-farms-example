@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import axios from 'axios';
 import AnimalProfile from './AnimalProfile';
-import Add from './Add';
 import './Animals.css';
 
 class Animals extends Component {

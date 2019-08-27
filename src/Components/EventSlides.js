@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 
 function EventSlides(props) {
     // console.log("props", props)
