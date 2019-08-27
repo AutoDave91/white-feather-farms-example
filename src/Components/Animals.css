@@ -1,0 +1,40 @@
+.animalsContainer{
+    display: flex;
+    flex-flow: column;
+    background-image:url('./Pics/egg-cross.jpg');
+    height: 100vh;
+    width: 100vw;
+    padding-top: 2vh;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 2vh;
+    color: white;
+}
+.animals{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.animal{
+    background: whitesmoke; 
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    height: 30vh;
+    width: 35vw;
+    margin-right: 2.5vw;
+    margin-left: 2.5vw;
+    margin-bottom: 5vh;
+}
+.animal-buttons1, .animal-buttons2{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 2vh;
+}
+.animalImage{
+    width: 18vw;
+    height: 18vh;
+}

@@ -1,0 +1,26 @@
+.eventsContainer{
+    display: flex;
+    flex-flow: column;
+    background-image:url('./Pics/backgroundBarn.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    padding-top: 5vh;
+}
+/* image style connected to Home.css */
+/* .addEditDelete{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 3vh; */
+.adding {
+    margin-top: 2vh;
+    display: flex;
+    justify-content: center;
+}
+/* .text{
+    padding: 20px;
+    display: none;
+}
+.eventSlide:hover + .text {
+    display: block;
+} */
